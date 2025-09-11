@@ -30,9 +30,10 @@ The tool is lightweight, modular, and easily extendable, making it a practical a
 
 ```bash
 python main.py --input data/sample_vectors.txt --mode both --output table
---input → Path to the input file containing CVSS vectors
---mode → Choose between severity, metrics, or both
---output → Choose output format: table or json
+```
+-- input → Path to the input file containing CVSS vectors
+-- mode → Choose between severity, metrics, or both
+-- output → Choose output format: table or json
 
 
 ## Future Enhancements
