@@ -2,8 +2,6 @@
 
 `cvss_stats_tool` is a simple, modular Python console tool for analyzing CVSS (Common Vulnerability Scoring System) vectors. It is designed for cybersecurity professionals, penetration testers, and security analysts who want to quickly generate statistics and insights from a list of CVSS 3.1 vectors.  
 
-The tool is lightweight, modular, and easily extendable, making it a practical addition to any security toolkit or coding portfolio.
-
 ---
 
 ## Features
